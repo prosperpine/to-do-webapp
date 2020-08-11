@@ -5,7 +5,7 @@ import '../index.css';
 import { formatDate, parseDate } from 'react-day-picker/moment';
 import DayPickerInput from 'react-day-picker/DayPickerInput';
 import 'react-day-picker/lib/style.css';
-import 'moment/locale/it';
+import 'moment/locale/en-gb';
 
 export const ToShopInput = ({ itemsId }) => {
   const dispatch = useDispatch();
