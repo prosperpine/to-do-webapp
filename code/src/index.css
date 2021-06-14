@@ -6,7 +6,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   box-sizing: border-box;
-  color: white;
+  color: #69b99d;
 }
 
 code {
@@ -19,7 +19,7 @@ h1 {
 }
 
 .main {
-  background-color: #2e334a;
+  background-color: #ccf4e6;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -50,12 +50,12 @@ input [type='submit'] {
 }
 
 .addtodo {
-  background-color: #f5bcba;
+  background-color: #ded3f5;
 }
 
 .addtoshop {
   /* background-color: #dfcdc0; */
-  background-color: #d8e2dc;
+  background-color: #f8e7dd;
 }
 
 /* INPUT FORMS */
@@ -121,7 +121,7 @@ button:focus {
   margin-bottom: 20px;
   display: flex;
   width: 80%;
-  background-color: #f4aca9;
+  background-color: #ded3f5;
   border-radius: 4px;
   flex-direction: row;
   align-items: center;
@@ -130,7 +130,7 @@ button:focus {
 }
 
 .toshopitem {
-  background-color: #a4babd;
+  background-color: #f8e7dd;
   /* background-color: #cdbeb3; */
 }
 
