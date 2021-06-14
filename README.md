@@ -1,13 +1,9 @@
-# Project Todos
+To-Do App
 
-Replace this readme with your own information about your project.
+This web app is a todo-list. You can list stuff that you need to do or things you need to buy and keep track during the day how many tasks you have left and which of them you have completed.
 
-Start by briefly describing the assignment in a sentence or two. Keep it short and to the point.
+I built it in React and this was the first time I set up Redux which I used to store the to-do-input and to keep track of when states changed.
 
-## The problem
+It was overall a fun project and I would like to add on more categories eventually, or some other features like an event planner/calender.
 
-Describe how you approached to problem, and what tools and techniques you used to solve it. How did you plan? What technologies did you use? If you had more time, what would be next?
-
-## View it live
-
-Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
+See it live: https://loving-elion-b3d35e.netlify.app/
