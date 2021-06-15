@@ -6,4 +6,4 @@ I built it in React and this was the first time I set up Redux which I used to s
 
 It was overall a fun project and I would like to add on more categories eventually, or some other features like an event planner/calender.
 
-See it live: https://loving-elion-b3d35e.netlify.app/
+See it live: https://fervent-shockley-4cb6df.netlify.app
